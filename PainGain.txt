@@ -1,0 +1,39 @@
+*Design empathy map, provide pain and gain points for a Parent persona admitting his/her child to a School in first class.
+
+From Parent persona:
+
+What the Parent Says:
+want the best school for my child.
+are the fees worth it?
+how is the Teaching quality?
+
+What the Parent Does:
+Visits multiple school
+compare fees and curriculum.
+talks to others parents
+
+What the Parent Thinks:
+will my child can adjust?
+am i making the right decision?
+can i afford it?
+
+What the Parent Feels:
+Responsible for child future.
+stressed due to money choice
+hope for a good outcomes
+
+Pain points:		
+Hidden cost and fees
+Lack of transparency
+Concern about teaching quality
+
+Solutions:
+provide clear fees structures
+Conduct school orientation
+Share performance data
+
+Gain Points:
+Quality education and strong foundation
+Happy and comfortable student
+Better future opportunities for child 
+
