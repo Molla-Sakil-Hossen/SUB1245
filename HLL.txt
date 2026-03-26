@@ -1,0 +1,25 @@
+HLL
+
+X=5, at location 1000;
+y=6, at location 1001;
+z=x*y; z at location 5000;
+
+
+	Fetch(Load 1000):
+	IR = 1000;
+	PC = 1001;
+	MAR <- IR = 1000;
+	MDR X = 5;
+	AC <- MDR = 5;
+	
+	MUL:
+	IR = 1001;
+	PC = 5000;
+	MAR <- IR = 1001;
+	MDR Y = 6;
+	AC = 5*6 = 30;
+	
+	STORE:
+	IR = 5000;
+	PC = null (Not pointing anyone at this moment);
+	MAR - main memory at address 5000;
