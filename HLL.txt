@@ -1,4 +1,4 @@
-HLL
+HLL(High level language)
 
 X=5, at location 1000;
 y=6, at location 1001;
